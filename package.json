@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "string-similarity": "^4.0.4"
+  },
+  "name": "icomoon-utils",
+  "version": "1.0.0",
+  "description": "utils to perform various actions on icomoon icon files, like finding unused icons, finding duplicate icons.",
+  "main": "find-similar-svgs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naresh Pingale",
+  "license": "ISC"
+}
